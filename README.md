@@ -45,13 +45,6 @@ pip install tensorflow opencv-python keras numpy pandas scikit-learn tqdm seabor
 - `sentiment-analysis-CV.ipynb`: Script for real-time emotion detection using the webcam.
 - `sentiment-analysis-tfmodel.ipynb`: Script for training the emotion detection model.
 
-## Acknowledgement
-
-- [Face Expression Recognition Dataset](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset) for providing the dataset.
-- [OpenCV](https://opencv.org/) and [TensorFlow](https://www.tensorflow.org/) for their powerful libraries.
-
-
-
 
 
 
